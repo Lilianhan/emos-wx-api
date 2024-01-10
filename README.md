@@ -1,5 +1,10 @@
-Smart Property Management Platform (ERP&OA)
-The Smart Property Management Platform is a comprehensive solution that integrates ERP (Enterprise Resource Planning) and OA (Office Automation) functionalities. The platform is built using the SpringBoot framework, adopting a front-end and back-end separation architecture. Key features and technologies include:
+/**Still working on it, Not finished**/
+I worked both on the Front-end and back-end
+The key steps I have made are noted on the back-end project README.md (will continue to organize it later)
+
+
+This is a mock-up for the Smart Property Management Platform (ERP&OA)
+    The Smart Property Management Platform is a comprehensive solution that integrates ERP (Enterprise Resource Planning) and OA (Office Automation) functionalities. The platform is built using the SpringBoot framework, adopting a front-end and back-end separation architecture. Key features and technologies include:
 
 Architecture:
 
