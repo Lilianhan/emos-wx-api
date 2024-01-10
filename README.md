@@ -1,6 +1,6 @@
 /**Still working on it, Not finished**/
 I worked both on the Front-end and back-end
-The key steps I have made are noted on the back-end project README.md (will continue to organize it later)
+The key steps I have made are noted on the front-end app project README.md (will continue to organize it later)
 
 
 This is a mock-up for the Smart Property Management Platform (ERP&OA)
