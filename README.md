@@ -1,3 +1,24 @@
+This is a note for all the steps to build this project
+
+1、 Environment Preparation
+MYSQL
+MongoDB
+Redis
+Maven
+IDEA PLUGIN
+Wechat MiniApp development tool
+HBuilderX
+VirtualBox
+Linux
+SSH
+
+
+
+
+
+
+
+
 /**Still working on it, Not finished**/
 I worked both on the Front-end and back-end
 The key steps I have made are noted on the front-end app project README.md (will continue to organize it later)
